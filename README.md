@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Logavarshini P</h1>
 
-<!--
-**logavarshini2112/logavarshini2112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI Engineer | Full Stack Developer | Hackathon Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+🎓 B.Tech Artificial Intelligence and Data Science (AIDS)<br>
+🏫 Bannari Amman Institute of Technology<br>
+📍 Sathyamangalam, Tamil Nadu, India
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🤖 Passionate about Artificial Intelligence & Machine Learning
+- 💻 Full Stack Developer
+- 🌱 Currently learning React, Node.js and DSA
+- 🏆 Active Hackathon Participant
+- 🎯 Dream Company: Google
+- 💜 I love coding, learning new technologies, and building real-world projects.
+
+---
+
+## 💻 Tech Stack
+
+- **Languages:** C, JavaScript
+- **Frontend:** HTML, CSS, React
+- **Backend:** Node.js
+- **Database:** MySQL
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/logavarshini-palanisamy-6a490b398
+- 💻 LeetCode: https://leetcode.com/u/KrCI9o1jsQ/
+- 🍜 CodeChef: https://www.codechef.com/users/logavarshinip
+- 🏅 HackerRank: https://www.hackerrank.com/profile/logavarshini2112
+
+---
+
+⭐ *"Dream Big. Code Smart. Build the Future."*
