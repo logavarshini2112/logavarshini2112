@@ -1,138 +1,156 @@
-<div align="center">
+# LOGAVARSHINI P
 
-# 👋 Hi! I'm LOGAVARSHINI P
+### B.Tech Artificial Intelligence and Data Science Student | Aspiring AI Engineer | Full-Stack Developer
 
-### 🎓 AIDS Student | 💻 Aspiring Full-Stack Developer | 🧠 Problem Solver
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub&fontSize=35&fontAlignY=35&desc=Learn%20%7C%20Build%20%7C%20Grow&descAlignY=55&descAlign=50"/>
-
-</div>
+Bannari Amman Institute of Technology  
+Sathyamangalam, Tamil Nadu, India
 
 ---
 
-## 🌟 ABOUT ME
+## About Me
 
+I am a second-year B.Tech student specializing in **Artificial Intelligence and Data Science (AIDS)** at Bannari Amman Institute of Technology.
 
-- 💻 Passionate about programming and web development
-- 🧩 Practicing Data Structures & Algorithms
-- ☕ Currently learning Java
-- 🐍 Currently learning Python
-- 🗄️ Currently learning Database Programming
-- 🚀 Interested in Full-Stack Development
-- 💡 Love building projects and learning new technologies
-- 🌱 Always improving my problem-solving skills
+I am interested in **Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering**. I enjoy developing practical applications, participating in hackathons and technical events, learning new technologies, and continuously improving my programming skills.
 
----
+### Currently Focusing On
 
-## 🛠️ TECH STACK
-
-### 👩‍💻 Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js" />
-</p>
-
-### 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,git,github,vscode" />
-</p>
+- Artificial Intelligence and Machine Learning
+- Full-Stack Web Development
+- Data Structures and Algorithms
+- Database Programming
+- Java and Python
+- Coding Practice and Problem Solving
+- Hackathons and Technical Events
+- Internship Preparation
 
 ---
 
-## 📚 CURRENTLY LEARNING
+## Technical Skills
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,postgres" />
-</p>
+### Programming Languages
 
-- ☕ Java
-- 🐍 Python
-- 🗄️ Database Programming
-- 🧠 Data Structures & Algorithms
+- C
+- JavaScript
+- Java
+- Python
 
----
+### Web Development
 
-## 🚀 PROJECTS
+- HTML
+- CSS
+- JavaScript
+- React
+- Node.js
 
-### 🛒 E-Commerce Web Application
+### Database
 
-A full-stack e-commerce application with user and admin functionality.
+- MySQL
 
-**Features:**
-- 👤 User login
-- 🛍️ Product browsing
-- 🛒 Add to cart
-- 👨‍💼 Admin management
-- 📦 Product status management
+### Tools and Technologies
 
-**Tech Stack:** React • Node.js • Database
-
----
-
-### 📊 React Dashboard
-
-A responsive dashboard interface built using React.
-
-**Tech Stack:** React • JavaScript • CSS
+- Git
+- GitHub
+- Visual Studio Code
 
 ---
 
-### 🧠 DSA Practice
+## Projects
 
-A collection of programming problems and algorithm implementations.
+### Digital Visitor Feedback and Experience Management Portal
 
-**Languages:** C++ • Java • Python
+A full-stack web application designed to digitize and manage visitor feedback, complaints, and service requests.
 
----
+The platform provides a structured workflow for visitors, staff, and administrators to submit, manage, track, and resolve feedback efficiently.
 
-## 🎯 GOALS
+**Key Features**
 
-- 🚀 Build real-world projects
-- 🧠 Become stronger in DSA
-- 💻 Become a skilled Full-Stack Developer
-- 🏆 Participate in hackathons and coding challenges
-- 🌱 Contribute to open-source projects
+- Visitor feedback submission
+- Department-based feedback routing
+- Complaint and service request management
+- Staff feedback management
+- Feedback status tracking
+- Admin monitoring and management
+- Escalation of unresolved feedback
+- Image upload for supporting evidence
+- Notifications and updates
+- Feedback analytics and reporting
 
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
+**Technologies:** React, JavaScript, Tailwind CSS, Node.js, Express.js, MySQL
 
 ---
 
-## 💻 MOST USED LANGUAGES
+### React Dashboard
 
-<div align="center">
+A responsive dashboard interface developed using React and JavaScript for presenting application data in a structured and user-friendly manner.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+**Technologies:** React, JavaScript, CSS
 
 ---
 
-## 🌱 MY GITHUB JOURNEY
+## Achievements
+
+### NPTEL
+
+**User Interface Design — Silver Badge**
+
+---
+
+## Coding Profiles
+
+- [LeetCode](https://leetcode.com/u/KrCI9o1jsQ/)
+- [CodeChef](https://www.codechef.com/users/logavarshinip)
+- [HackerRank](https://www.hackerrank.com/profile/logavarshini2112)
+
+---
+
+## Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/logavarshini-palanisamy-6a490b398)
+- [GitHub](https://github.com/logavarshini2112)
+
+---
+
+## Career Goals
+
+- Build impactful real-world applications
+- Strengthen Data Structures and Algorithms
+- Develop expertise in Artificial Intelligence and Machine Learning
+- Become a skilled Full-Stack Developer
+- Participate and perform well in hackathons
+- Gain industry experience through internships
+- Contribute to open-source projects
+- Build a career as an AI Engineer
+
+---
+
+## My Learning Journey
 
 ```text
-📚 Learn
-   ↓
-💻 Practice
-   ↓
-🛠️ Build Projects
-   ↓
-🧠 Solve Problems
-   ↓
-🚀 Improve
+Learn
+  |
+  v
+Practice
+  |
+  v
+Build
+  |
+  v
+Solve
+  |
+  v
+Improve
+  |
+  v
+Create Impact
+```
+
+---
+
+## Future Vision
+
+I aim to combine **Artificial Intelligence, Data Science, and Software Development** to build meaningful and intelligent solutions for real-world problems.
+
+---
+
+> Learn continuously. Build consistently. Improve every day.
