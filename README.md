@@ -98,8 +98,6 @@ A responsive dashboard interface developed using React and JavaScript for presen
 ---
 
 ## 💡 Coding Profiles
-
-- 💻 [LeetCode](https://leetcode.com/u/KrCI9o1jsQ/)
 - 🏅 [CodeChef](https://www.codechef.com/users/logavarshinip)
 - 📊 [HackerRank](https://www.hackerrank.com/profile/logavarshini2112)
 
