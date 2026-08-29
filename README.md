@@ -105,7 +105,7 @@ A responsive dashboard interface developed using React and JavaScript for presen
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/logavarshini-palanisamy-6a490b398)
+- 💼 [LinkedIn](https://www.linkedin.com/in/logavarshini-p-6a490b398/)
 - 🐙 [GitHub](https://github.com/logavarshini2112)
 
 ---
