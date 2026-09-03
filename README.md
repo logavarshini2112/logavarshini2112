@@ -13,12 +13,16 @@ Bannari Amman Institute of Technology
 
 ## 🤖 About Me
 
-I'm an AI & Data Science student passionate about **AI, Full-Stack Development, DSA and Problem Solving**.
+I'm an AI & Data Science student passionate about **Artificial Intelligence, Full-Stack Development, DSA and Problem Solving**.
 
+---
+
+## 📚 Currently Learning
+
+- ☕ Java
+- 🧠 Problem Solving
+- 📊 Data Structures & Algorithms
 - 🤖 Artificial Intelligence & Machine Learning
-- 💻 Full-Stack Development
-- 🧠 Data Structures & Algorithms
-- 🏆 Hackathons & Technical Events
 
 ---
 
@@ -56,7 +60,6 @@ I'm an AI & Data Science student passionate about **AI, Full-Stack Development, 
 
 A full-stack web application for managing **visitor feedback, complaints and service requests**.
 
-**Features:**
 - Visitor feedback submission
 - Department-based routing
 - Complaint management
@@ -70,22 +73,57 @@ A full-stack web application for managing **visitor feedback, complaints and ser
 
 ---
 
-## 🏆 Achievement
+## 🏆 Achievements & Certifications
 
 🥈 **NPTEL – User Interface Design**  
 Silver Badge
 
 ---
 
-## 🔗 Connect With Me
+## 📊 GitHub Stats
 
-<p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=logavarshini2112&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=logavarshini2112&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logavarshini2112&theme=tokyo-night" />
+</p>
+
+---
+
+## 💻 Coding Profiles
+
+<p align="center">
+
 <a href="https://github.com/logavarshini2112">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
+
 <a href="https://www.linkedin.com/in/logavarshini-p-6a490b398/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
+
+<a href="https://www.codechef.com/users/logavarshinip">
+<img src="https://cdn.simpleicons.org/codechef" width="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/logavarshini2112">
+<img src="https://cdn.simpleicons.org/hackerrank" width="45"/>
+</a>
+
 </p>
 
 ---
