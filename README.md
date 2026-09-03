@@ -1,140 +1,73 @@
-# 👋 Hi, I'm LOGAVARSHINI P
+<div align="center">
 
-### 🎓 B.Tech Artificial Intelligence and Data Science Student
-### 💻 Aspiring AI Engineer | Full-Stack Developer | Hackathon Enthusiast
+<img src="./logo.png" width="150"/>
 
-**Bannari Amman Institute of Technology**  
-**Sathyamangalam, Tamil Nadu, India**
+# LOGAVARSHINI P
 
----
+### AI & Data Science Student | Developer
 
-## 🤖 About Me
+🎓 B.Tech Artificial Intelligence and Data Science  
+🏫 Bannari Amman Institute of Technology
 
-I am a second-year B.Tech student specializing in **Artificial Intelligence and Data Science (AIDS)** at Bannari Amman Institute of Technology.
-
-I am passionate about **Artificial Intelligence, Machine Learning, Full-Stack Development, and Software Engineering**. I enjoy building practical applications, participating in hackathons and technical events, and continuously learning new technologies.
-
-### 🎯 Currently Focusing On
-
-- Artificial Intelligence and Machine Learning
-- Full-Stack Web Development
-- Data Structures and Algorithms
-- Database Programming
-- Java and Python
-- Coding and Problem Solving
-- Hackathons and Technical Events
-- Internship Preparation
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 👩‍💻 About Me
 
-### 👨‍💻 Programming Languages
+I'm a B.Tech AI & Data Science student passionate about:
 
-- C
-- JavaScript
-- Java
-- Python
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Full-Stack Development
+- 🧠 Data Structures & Algorithms
+- 🏆 Hackathons & Problem Solving
 
-### 🌐 Web Development
+---
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
+## 🛠️ Tech Stack
 
-### 🗄️ Database
+**Languages:**  
+C • Java • Python • JavaScript
 
-- MySQL
+**Web:**  
+HTML • CSS • React • Node.js • Express.js
 
-### 🛠️ Tools & Technologies
+**Database:**  
+MySQL
 
-- Git
-- GitHub
-- Visual Studio Code
+**Tools:**  
+Git • GitHub • VS Code
 
 ---
 
 ## 🚀 Projects
 
-### 📋 Digital Visitor Feedback and Experience Management Portal
+### 📋 Digital Visitor Feedback Portal
+Full-stack application for managing visitor feedback, complaints and service requests.
 
-A full-stack web application designed to digitize and manage visitor feedback, complaints, and service requests.
-
-The platform provides a structured workflow for **visitors, staff, and administrators** to submit, manage, track, and resolve feedback efficiently.
-
-#### Key Features
-
-- Visitor feedback submission
-- Department-based feedback routing
-- Complaint and service request management
-- Staff feedback management
-- Feedback status tracking
-- Admin monitoring and management
-- Escalation of unresolved feedback
-- Image upload for supporting evidence
-- Notifications and updates
-- Feedback analytics and reporting
-
-**Technology Stack:** React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
-
----
+**React • Node.js • Express.js • MySQL**
 
 ### 📊 React Dashboard
+Responsive dashboard for presenting application data.
 
-A responsive dashboard interface developed using React and JavaScript for presenting application data in a structured and user-friendly manner.
-
-**Technology Stack:** React • JavaScript • CSS
-
----
-
-## 🏆 Achievements
-
-### 🥈 NPTEL — User Interface Design
-
-**Silver Badge**
+**React • JavaScript • CSS**
 
 ---
 
-## 💡 Coding Profiles
-- 🏅 [CodeChef](https://www.codechef.com/users/logavarshinip)
-- 📊 [HackerRank](https://www.hackerrank.com/profile/logavarshini2112)
+## 🏆 Achievement
+
+🥈 **NPTEL – User Interface Design**  
+Silver Badge
 
 ---
 
 ## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/logavarshini-p-6a490b398/)
-- 🐙 [GitHub](https://github.com/logavarshini2112)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/logavarshini2112)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logavarshini-p-6a490b398/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/logavarshinip)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/logavarshini2112)
 
 ---
 
-## 🎯 Career Goals
-
-- Build impactful real-world applications
-- Strengthen Data Structures and Algorithms
-- Develop expertise in Artificial Intelligence and Machine Learning
-- Become a skilled Full-Stack Developer
-- Participate and perform well in hackathons
-- Gain industry experience through internships
-- Contribute to open-source projects
-- Build a career as an AI Engineer
-
----
-
-## 📚 My Learning Journey
-
-```text
-Learn → Practice → Build → Solve → Improve → Create Impact
-```
-
----
-
-## 🔮 Future Vision
-
-I aim to combine **Artificial Intelligence, Data Science, and Software Development** to build meaningful and intelligent solutions for real-world problems.
-
----
-
-### 💜 "Learn continuously. Build consistently. Improve every day."
+### 💜 Learn • Build • Create Impact
