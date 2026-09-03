@@ -1,56 +1,72 @@
 <div align="center">
 
-<img src="./logo.png" width="150"/>
+# 👋 Hi, I'm LOGAVARSHINI P
 
-# LOGAVARSHINI P
+### 🎓 AI & Data Science Student | 💻 Developer | 🏆 Hackathon Enthusiast
 
-### AI & Data Science Student | Developer
-
-🎓 B.Tech Artificial Intelligence and Data Science  
-🏫 Bannari Amman Institute of Technology
+B.Tech Artificial Intelligence and Data Science  
+Bannari Amman Institute of Technology
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## 🤖 About Me
 
-I'm a B.Tech AI & Data Science student passionate about:
+I'm an AI & Data Science student passionate about **AI, Full-Stack Development, DSA and Problem Solving**.
 
 - 🤖 Artificial Intelligence & Machine Learning
 - 💻 Full-Stack Development
 - 🧠 Data Structures & Algorithms
-- 🏆 Hackathons & Problem Solving
+- 🏆 Hackathons & Technical Events
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-C • Java • Python • JavaScript
+### 💻 Languages
 
-**Web:**  
-HTML • CSS • React • Node.js • Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+</p>
 
-**Database:**  
-MySQL
+### 🌐 Web Development
 
-**Tools:**  
-Git • GitHub • VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### 🗄️ Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 🚀 Projects
 
-### 📋 Digital Visitor Feedback Portal
-Full-stack application for managing visitor feedback, complaints and service requests.
+### 📋 Digital Visitor Feedback and Experience Management Portal
 
-**React • Node.js • Express.js • MySQL**
+A full-stack web application for managing **visitor feedback, complaints and service requests**.
 
-### 📊 React Dashboard
-Responsive dashboard for presenting application data.
+**Features:**
+- Visitor feedback submission
+- Department-based routing
+- Complaint management
+- Status tracking
+- Admin monitoring
+- Feedback escalation
+- Notifications
+- Analytics and reporting
 
-**React • JavaScript • CSS**
+**Tech Stack:** React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
 
 ---
 
@@ -63,11 +79,19 @@ Silver Badge
 
 ## 🔗 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/logavarshini2112)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/logavarshini-p-6a490b398/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/logavarshinip)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/logavarshini2112)
+<p>
+<a href="https://github.com/logavarshini2112">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+<a href="https://www.linkedin.com/in/logavarshini-p-6a490b398/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+</p>
 
 ---
 
+<div align="center">
+
 ### 💜 Learn • Build • Create Impact
+
+</div>
