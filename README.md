@@ -1,10 +1,24 @@
 <div align="center">
 
-<table> <tr> <td align="center" width="100%">
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#0D1117">
+
+<br><br>
+
+<h1>
+<font color="#FFFFFF">👋 LOGAVARSHINI P</font>
+</h1>
+
+<h3>
+<font color="#A78BFA">🎓 AI &amp; Data Science Student &nbsp; | &nbsp; 💻 Developer &nbsp; | &nbsp; 🏆 Hackathon Enthusiast</font>
+</h3>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=LOGAVARSHINI%20P&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=65&descSize=16" width="100%">
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -12,9 +26,9 @@
 
 <h3>Bannari Amman Institute of Technology</h3>
 
-<br>
+</div>
 
-</td> </tr> </table>
+---
 
 ## 🤖 About Me
 
@@ -85,12 +99,12 @@ Silver Badge
 
 ---
 
-
 ## 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=logavarshini2112&theme=tokyonight&hide_border=true" />
 </p>
+
 ---
 
 ## 💻 Coding Profiles
