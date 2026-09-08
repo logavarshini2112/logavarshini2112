@@ -1,15 +1,20 @@
 <div align="center">
 
-# 👋 Hi, I'm LOGAVARSHINI P
+<table> <tr> <td align="center" width="100%">
 
-### 🎓 AI & Data Science Student | 💻 Developer | 🏆 Hackathon Enthusiast
+<br>
 
-B.Tech Artificial Intelligence and Data Science  
-Bannari Amman Institute of Technology
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=LOGAVARSHINI%20P&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=AI%20%26%20Data%20Science%20Student%20%7C%20Developer%20%7C%20Hackathon%20Enthusiast&descAlignY=65&descSize=16" width="100%">
 
-</div>
+<br>
 
----
+<h2>🎓 B.Tech Artificial Intelligence and Data Science</h2>
+
+<h3>Bannari Amman Institute of Technology</h3>
+
+<br>
+
+</td> </tr> </table>
 
 ## 🤖 About Me
 
