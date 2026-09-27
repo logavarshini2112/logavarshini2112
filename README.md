@@ -163,12 +163,3 @@ React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
 <div align="center">
 
 ### 💜 Learn • Build • Create Impact
-
-</div>
-<div align="center">
-
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#0D1117">
-
-<br><br>
