@@ -1,54 +1,16 @@
+ <div align="center">
 
+<h1>👋 LOGAVARSHINI P</h1>
 
-<div align="center">
+### 🎓 AI & Data Science Student &nbsp; | &nbsp; 🏆 Hackathon Enthusiast
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#0D1117">
+**B.Tech Artificial Intelligence and Data Science**
 
-<br><br>
-
-<h1>
-<font color="#FFFFFF">👋 LOGAVARSHINI P</font>
-</h1>
-
-<h3>
-<font color="#A78BFA">
-🎓 AI &amp; Data Science Student
-&nbsp; | &nbsp;
-🏆 Hackathon Enthusiast
-</font>
-</h3>
-
-<p>
-<font color="#60A5FA">
-B.Tech Artificial Intelligence and Data Science
-</font>
-</p>
-
-<p>
-<font color="#94A3B8">
 Bannari Amman Institute of Technology
-</font>
-</p>
 
 <br>
 
-<p>
-<font color="#A78BFA">🤖 AI</font>
-&nbsp; • &nbsp;
-<font color="#60A5FA">💻 Full-Stack</font>
-&nbsp; • &nbsp;
-<font color="#34D399">🧠 DSA</font>
-&nbsp; • &nbsp;
-<font color="#FBBF24">🚀 Innovation</font>
-</p>
-
-<br>
-
-</td>
-</tr>
-</table>
+🤖 AI &nbsp; • &nbsp; 💻 Full-Stack &nbsp; • &nbsp; 🧠 DSA &nbsp; • &nbsp; 🚀 Innovation
 
 </div>
 
@@ -76,25 +38,25 @@ I enjoy building practical projects, learning new technologies, solving programm
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
+<img src="https://skillicons.dev/icons?i=c,java,python,javascript" alt="Programming Languages"/>
 </p>
 
 ### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" alt="Web Development"/>
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql" alt="Database"/>
 </p>
 
 ### 🛠️ Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Developer Tools"/>
 </p>
 
 ---
@@ -116,39 +78,39 @@ A full-stack web application for managing **visitor feedback, complaints and ser
 - 🔔 Notifications
 - 📊 Analytics and reporting
 
-**Tech Stack:**  
-React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
+**Tech Stack:** React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🥈 **NPTEL – User Interface Design**  
-**Silver Badge**
+🥈 **NPTEL – User Interface Design**
+
+Silver Badge
 
 ---
 
-## 💻 Coding Profiles
+## 🔗 Coding Profiles
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/logavarshini2112">
-<img src="https://skillicons.dev/icons?i=github" width="45"/>
+<img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/logavarshini-p-6a490b398/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+<img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/logavarshinip">
-<img src="https://cdn.simpleicons.org/codechef" width="45"/>
+<img src="https://cdn.simpleicons.org/codechef" width="45" alt="CodeChef"/>
 </a>
-
+&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/profile/logavarshini2112">
-<img src="https://cdn.simpleicons.org/hackerrank" width="45"/>
+<img src="https://cdn.simpleicons.org/hackerrank" width="45" alt="HackerRank"/>
 </a>
 
-</p>
+</div>
 
 ---
 
@@ -156,3 +118,4 @@ React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
 
 ### 💜 Learn • Build • Create Impact
 
+</div>
