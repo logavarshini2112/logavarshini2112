@@ -81,22 +81,6 @@ A full-stack web application for managing **visitor feedback, complaints and ser
 
 **Tech Stack:** React • JavaScript • Tailwind CSS • Node.js • Express.js • MySQL
 
----
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=logavarshini2112&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Statistics" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logavarshini2112&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=logavarshini2112&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
 
 ## 🏆 Achievements & Certifications
 
